@@ -1,0 +1,24 @@
+#banner {
+    width:100%;
+}
+
+titulo.principal{
+    background: white#CCCCCC
+    padding: 30px;
+}
+
+.titulo-centralizado {
+    text-align: center
+}
+
+#missao {
+    font: site 20px
+}
+
+em strong {
+    color: orangered#FF0000
+}
+
+.itens {
+   font-style: it
+}
